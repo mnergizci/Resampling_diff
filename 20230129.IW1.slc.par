@@ -3,27 +3,27 @@ Gamma Interferometric SAR Processor (ISP) - Image Parameter File
 title:     s1a-iw1-slc-vv-20230129t033403-20230129t033428-046993-05a2fe-004.tiff S1A-IW-IW1-VV-46993 (software: Sentinel-1 IPF 003.52)
 sensor:    S1A IW IW1 VV
 date:      2023 01 29 03 34 16.88746
-start_time:             12856.887464   s
-center_time:            12891.531811   s
-end_time:               12926.176157   s
-azimuth_line_time:     2.0555563e-03   s
+start_time:             12856.879438   s
+center_time:            12891.527094   s
+end_time:               12926.174749   s
+azimuth_line_time:     2.0555697e-03   s
 line_header_size:                  0
-range_samples:                 22244
+range_samples:                 22245
 azimuth_lines:                 37550
 range_looks:                       1
 azimuth_looks:                     1
 image_format:               SCOMPLEX
 image_geometry:             SLANT_RANGE
-range_scale_factor:     1.0000000e+00
-azimuth_scale_factor:   1.0000000e+00
+range_scale_factor:     9.9969895e-01
+azimuth_scale_factor:   1.0000065e+00
 center_latitude:          37.1664382   degrees
 center_longitude:         38.6067097   degrees
 heading:                 193.2563615   degrees
-range_pixel_spacing:        2.329562   m
-azimuth_pixel_spacing:     13.958570   m
-near_range_slc:           799495.3030  m
-center_range_slc:         802733.8310  m
-far_range_slc:            851311.7505  m
+range_pixel_spacing:        2.328861   m
+azimuth_pixel_spacing:     13.958661   m
+near_range_slc:           799425.9002  m
+center_range_slc:         825327.4887  m
+far_range_slc:            851229.0771  m
 first_slant_range_polynomial:        0.00000      0.00000  0.00000e+00  0.00000e+00  0.00000e+00  0.00000e+00  s m 1 m^-1 m^-2 m^-3 
 center_slant_range_polynomial:       0.00000      0.00000  0.00000e+00  0.00000e+00  0.00000e+00  0.00000e+00  s m 1 m^-1 m^-2 m^-3 
 last_slant_range_polynomial:         0.00000      0.00000  0.00000e+00  0.00000e+00  0.00000e+00  0.00000e+00  s m 1 m^-1 m^-2 m^-3 
