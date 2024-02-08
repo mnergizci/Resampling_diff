@@ -11,7 +11,7 @@ ascending_node_t0: 10537.609944  s
 burst_interval:       2.7582770  s
 
 burst_date_1:          2023-01-29T03:34:18.786799
-burst_start_time_1:    12858.7867990  s
+burst_start_time_1:    12858.7791969  s
 sensing_date_1:        2023-01-29T03:34:19.927811
 sensing_start_time_1:  12859.9278110  s
 sensing_position_1:    4047902.3527   3808294.1205   4370937.4581   m   m   m
@@ -27,15 +27,15 @@ az_fmrate_date_1:      2023-01-29T03:34:20.339277
 az_fmrate_time_1:      12860.339277   s
 az_fmrate_srdelay_1:    6.01466e-03   s
 az_fmrate_polynomial_1: -2055.90564  353510.86630  -5.40792e+07   0.00000e+00   0.00000e+00
-first_valid_sample_1:     562         samples
+first_valid_sample_1:     606         samples
 last_valid_sample_1:    24231         samples
-first_valid_line_1:        28         lines
-last_valid_line_1:       1493         lines
-burst_win_1:      903626.72440   960092.97772    12858.786798    12861.728299     881   24240       0    1432
-ext_burst_win_1:  902927.85580   960092.97772    12858.786798    12861.851632     581   24540       0    1492
+first_valid_line_1:        32         lines
+last_valid_line_1:       1494         lines
+burst_win_1:      902920.24490   959975.00263    12858.779197    12861.720717     621   24500       0    1432
+ext_burst_win_1:  902920.24490   959975.00263    12858.779197    12861.844051     621   24500       0    1492
 
 burst_date_2:          2023-01-29T03:34:21.547411
-burst_start_time_2:    12861.5474110  s
+burst_start_time_2:    12861.5377709  s
 sensing_date_2:        2023-01-29T03:34:22.686088
 sensing_start_time_2:  12862.6860880  s
 sensing_position_2:    4060409.7438   3813374.2747   4354923.8212   m   m   m
@@ -51,15 +51,15 @@ az_fmrate_date_2:      2023-01-29T03:34:23.097554
 az_fmrate_time_2:      12863.097554   s
 az_fmrate_srdelay_2:    6.01466e-03   s
 az_fmrate_polynomial_2: -2055.96178  353499.14951  -5.40759e+07   0.00000e+00   0.00000e+00
-first_valid_sample_2:     562         samples
+first_valid_sample_2:     606         samples
 last_valid_sample_2:    24231         samples
-first_valid_line_2:        29         lines
+first_valid_line_2:        34         lines
 last_valid_line_2:       1491         lines
-burst_win_2:      903626.72440   960092.97772    12861.730355    12864.490967     881   24240      89    1344
-ext_burst_win_2:  902927.85580   960092.97772    12861.607021    12864.606078     581   24540      29    1460
+burst_win_2:      902920.24490   959975.00263    12861.722772    12864.475180     621   24500      90    1340
+ext_burst_win_2:  902920.24490   959975.00263    12861.607660    12864.590292     621   24500      34    1456
 
 burst_date_3:          2023-01-29T03:34:24.305967
-burst_start_time_3:    12864.3059670  s
+burst_start_time_3:    12864.3025130  s
 sensing_date_3:        2023-01-29T03:34:25.444365
 sensing_start_time_3:  12865.4443650  s
 sensing_position_3:    4072884.5427   3818416.8811   4338872.7689   m   m   m
@@ -75,15 +75,15 @@ az_fmrate_date_3:      2023-01-29T03:34:25.855831
 az_fmrate_time_3:      12865.855831   s
 az_fmrate_srdelay_3:    6.01466e-03   s
 az_fmrate_polynomial_3: -2056.02236  353487.46737  -5.40717e+07   0.00000e+00   0.00000e+00
-first_valid_sample_3:     562         samples
+first_valid_sample_3:     606         samples
 last_valid_sample_3:    24231         samples
-first_valid_line_3:        28         lines
-last_valid_line_3:       1492         lines
-burst_win_3:      903533.54192   960092.97772    12864.493022    12867.245412     841   24280      91    1340
-ext_burst_win_3:  902927.85580   960092.97772    12864.369689    12867.368746     581   24540      31    1460
+first_valid_line_3:        30         lines
+last_valid_line_3:       1493         lines
+burst_win_3:      902920.24490   959975.00263    12864.477236    12867.246089     621   24500      85    1348
+ext_burst_win_3:  902920.24490   959975.00263    12864.370347    12867.361201     621   24500      33    1460
 
 burst_date_4:          2023-01-29T03:34:27.062468
-burst_start_time_4:    12867.0624680  s
+burst_start_time_4:    12867.0590320  s
 sensing_date_4:        2023-01-29T03:34:28.202641
 sensing_start_time_4:  12868.2026410  s
 sensing_position_4:    4085326.6257   3823421.9091   4322784.4413   m   m   m
@@ -99,15 +99,15 @@ az_fmrate_date_4:      2023-01-29T03:34:28.611086
 az_fmrate_time_4:      12868.611086   s
 az_fmrate_srdelay_4:    6.01466e-03   s
 az_fmrate_polynomial_4: -2056.11392  353479.98313  -5.40685e+07   0.00000e+00   0.00000e+00
-first_valid_sample_4:     494         samples
+first_valid_sample_4:     539         samples
 last_valid_sample_4:    24162         samples
-first_valid_line_4:        28         lines
-last_valid_line_4:       1491         lines
-burst_win_4:      903440.35944   960092.97772    12867.247468    12869.999858     801   24320      90    1340
-ext_burst_win_4:  902741.49084   960092.97772    12867.124134    12870.123191     501   24620      30    1460
+first_valid_line_4:        30         lines
+last_valid_line_4:       1492         lines
+burst_win_4:      902733.93604   959975.00263    12867.248144    12870.000552     541   24580      92    1340
+ext_burst_win_4:  902733.93604   959975.00263    12867.124810    12870.115664     541   24580      32    1460
 
 burst_date_5:          2023-01-29T03:34:29.821025
-burst_start_time_5:    12869.8210250  s
+burst_start_time_5:    12869.8134950  s
 sensing_date_5:        2023-01-29T03:34:30.960918
 sensing_start_time_5:  12870.9609180  s
 sensing_position_5:    4097735.8753   3828389.3303   4306658.9713   m   m   m
@@ -123,15 +123,15 @@ az_fmrate_date_5:      2023-01-29T03:34:31.369363
 az_fmrate_time_5:      12871.369363   s
 az_fmrate_srdelay_5:    6.01466e-03   s
 az_fmrate_polynomial_5: -2056.13103  353463.39956  -5.40654e+07   0.00000e+00   0.00000e+00
-first_valid_sample_5:     494         samples
+first_valid_sample_5:     539         samples
 last_valid_sample_5:    24162         samples
-first_valid_line_5:        28         lines
-last_valid_line_5:       1492         lines
-burst_win_5:      903440.35944   960092.97772    12870.001913    12872.762525     801   24320      88    1344
-ext_burst_win_5:  902741.49084   960092.97772    12869.878580    12872.885859     501   24620      28    1464
+first_valid_line_5:        32         lines
+last_valid_line_5:       1490         lines
+burst_win_5:      902733.93604   959975.00263    12870.002607    12872.755015     541   24580      92    1340
+ext_burst_win_5:  902733.93604   959975.00263    12869.879273    12872.870127     541   24580      32    1456
 
 burst_date_6:          2023-01-29T03:34:32.577526
-burst_start_time_6:    12872.5775260  s
+burst_start_time_6:    12872.5741260  s
 sensing_date_6:        2023-01-29T03:34:33.719195
 sensing_start_time_6:  12873.7191950  s
 sensing_position_6:    4110112.1683   3833319.1148   4290496.4999   m   m   m
@@ -147,15 +147,15 @@ az_fmrate_date_6:      2023-01-29T03:34:34.127640
 az_fmrate_time_6:      12874.127640   s
 az_fmrate_srdelay_6:    6.01466e-03   s
 az_fmrate_polynomial_6: -2056.31265  353466.03670  -5.40612e+07   0.00000e+00   0.00000e+00
-first_valid_sample_6:     494         samples
+first_valid_sample_6:     539         samples
 last_valid_sample_6:    24162         samples
-first_valid_line_6:        28         lines
+first_valid_line_6:        30         lines
 last_valid_line_6:       1493         lines
-burst_win_6:      903440.35944   960092.97772    12872.764581    12875.516971     801   24320      91    1340
-ext_burst_win_6:  902741.49084   960092.97772    12872.641247    12875.640304     501   24620      31    1460
+burst_win_6:      902733.93604   959975.00263    12872.757072    12875.517702     541   24580      89    1344
+ext_burst_win_6:  902733.93604   959975.00263    12872.641960    12875.632814     541   24580      33    1460
 
 burst_date_7:          2023-01-29T03:34:35.336082
-burst_start_time_7:    12875.3360820  s
+burst_start_time_7:    12875.3327000  s
 sensing_date_7:        2023-01-29T03:34:36.477472
 sensing_start_time_7:  12876.4774720  s
 sensing_position_7:    4122455.3837   3838211.2334   4274297.1657   m   m   m
@@ -171,15 +171,15 @@ az_fmrate_date_7:      2023-01-29T03:34:36.885917
 az_fmrate_time_7:      12876.885917   s
 az_fmrate_srdelay_7:    6.01466e-03   s
 az_fmrate_polynomial_7: -2056.45498  353464.52093  -5.40579e+07   0.00000e+00   0.00000e+00
-first_valid_sample_7:     494         samples
+first_valid_sample_7:     539         samples
 last_valid_sample_7:    24162         samples
-first_valid_line_7:        28         lines
+first_valid_line_7:        30         lines
 last_valid_line_7:       1493         lines
-burst_win_7:      903440.35944   960092.97772    12875.519026    12878.279638     801   24320      89    1344
-ext_burst_win_7:  902741.49084   960092.97772    12875.395693    12878.402972     501   24620      29    1464
+burst_win_7:      902733.93604   959975.00263    12875.519757    12878.272165     541   24580      91    1340
+ext_burst_win_7:  902733.93604   959975.00263    12875.396423    12878.387277     541   24580      31    1460
 
 burst_date_8:          2023-01-29T03:34:38.094639
-burst_start_time_8:    12878.0946390  s
+burst_start_time_8:    12878.0892190  s
 sensing_date_8:        2023-01-29T03:34:39.235749
 sensing_start_time_8:  12879.2357490  s
 sensing_position_8:    4134765.4009   3843065.6576   4258061.1077   m   m   m
@@ -195,15 +195,15 @@ az_fmrate_date_8:      2023-01-29T03:34:39.644194
 az_fmrate_time_8:      12879.644194   s
 az_fmrate_srdelay_8:    6.01466e-03   s
 az_fmrate_polynomial_8: -2056.49380  353450.63821  -5.40553e+07   0.00000e+00   0.00000e+00
-first_valid_sample_8:     494         samples
+first_valid_sample_8:     539         samples
 last_valid_sample_8:    24162         samples
-first_valid_line_8:        28         lines
+first_valid_line_8:        31         lines
 last_valid_line_8:       1492         lines
-burst_win_8:      903440.35944   960092.97772    12878.281694    12881.034084     801   24320      91    1340
-ext_burst_win_8:  902741.49084   960092.97772    12878.158361    12881.157417     501   24620      31    1460
+burst_win_8:      902733.93604   959975.00263    12878.274220    12881.026628     541   24580      90    1340
+ext_burst_win_8:  902733.93604   959975.00263    12878.159108    12881.141740     541   24580      34    1456
 
 burst_date_9:          2023-01-29T03:34:40.857306
-burst_start_time_9:    12880.8573060  s
+burst_start_time_9:    12880.8498490  s
 sensing_date_9:        2023-01-29T03:34:41.994026
 sensing_start_time_9:  12881.9940260  s
 sensing_position_9:    4147042.0994   3847882.3592   4241788.4651   m   m   m
@@ -219,15 +219,15 @@ az_fmrate_date_9:      2023-01-29T03:34:42.402471
 az_fmrate_time_9:      12882.402471   s
 az_fmrate_srdelay_9:    6.01466e-03   s
 az_fmrate_polynomial_9: -2056.50477  353432.40677  -5.40494e+07   0.00000e+00   0.00000e+00
-first_valid_sample_9:     494         samples
+first_valid_sample_9:     539         samples
 last_valid_sample_9:    24162         samples
-first_valid_line_9:        27         lines
+first_valid_line_9:        31         lines
 last_valid_line_9:       1493         lines
-burst_win_9:      903440.35944   960092.97772    12881.036139    12883.796752     801   24320      87    1344
-ext_burst_win_9:  902741.49084   960092.97772    12880.912806    12883.920085     501   24620      27    1464
+burst_win_9:      902733.93604   959975.00263    12881.028684    12883.789314     541   24580      87    1344
+ext_burst_win_9:  902733.93604   959975.00263    12880.913572    12883.912648     541   24580      31    1460
 
 burst_date_10:          2023-01-29T03:34:43.611752
-burst_start_time_10:    12883.6117520  s
+burst_start_time_10:    12883.6063681  s
 sensing_date_10:        2023-01-29T03:34:44.752303
 sensing_start_time_10:  12884.7523030  s
 sensing_position_10:    4159285.3593   3852661.3103   4225479.3775   m   m   m
@@ -243,15 +243,15 @@ az_fmrate_date_10:      2023-01-29T03:34:45.160748
 az_fmrate_time_10:      12885.160748   s
 az_fmrate_srdelay_10:    6.01466e-03   s
 az_fmrate_polynomial_10: -2056.50158  353413.61886  -5.40468e+07   0.00000e+00   0.00000e+00
-first_valid_sample_10:     494         samples
+first_valid_sample_10:     539         samples
 last_valid_sample_10:    24162         samples
-first_valid_line_10:        28         lines
+first_valid_line_10:        31         lines
 last_valid_line_10:       1492         lines
-burst_win_10:      903440.35944   960092.97772    12883.798807    12886.551197     801   24320      91    1340
-ext_burst_win_10:  902741.49084   960092.97772    12883.675474    12886.674530     501   24620      31    1460
+burst_win_10:      902733.93604   959975.00263    12883.791369    12886.543777     541   24580      90    1340
+ext_burst_win_10:  902733.93604   959975.00263    12883.676257    12886.658889     541   24580      34    1456
 
 burst_date_11:          2023-01-29T03:34:46.370308
-burst_start_time_11:    12886.3703080  s
+burst_start_time_11:    12886.3628871  s
 sensing_date_11:        2023-01-29T03:34:47.510580
 sensing_start_time_11:  12887.5105800  s
 sensing_position_11:    4171495.0605   3857402.4834   4209133.9849   m   m   m
@@ -267,15 +267,15 @@ az_fmrate_date_11:      2023-01-29T03:34:47.919025
 az_fmrate_time_11:      12887.919025   s
 az_fmrate_srdelay_11:    6.01466e-03   s
 az_fmrate_polynomial_11: -2056.57363  353403.46281  -5.40439e+07   0.00000e+00   0.00000e+00
-first_valid_sample_11:     494         samples
+first_valid_sample_11:     539         samples
 last_valid_sample_11:    24162         samples
-first_valid_line_11:        28         lines
-last_valid_line_11:       1492         lines
-burst_win_11:      903440.35944   960092.97772    12886.553253    12889.305642     801   24320      89    1340
-ext_burst_win_11:  902741.49084   960092.97772    12886.429919    12889.437198     501   24620      29    1464
+first_valid_line_11:        32         lines
+last_valid_line_11:       1493         lines
+burst_win_11:      902733.93604   959975.00263    12886.545833    12889.298241     541   24580      89    1340
+ext_burst_win_11:  902733.93604   959975.00263    12886.430721    12889.421575     541   24580      33    1460
 
 burst_date_12:          2023-01-29T03:34:49.126809
-burst_start_time_12:    12889.1268090  s
+burst_start_time_12:    12889.1235171  s
 sensing_date_12:        2023-01-29T03:34:50.268857
 sensing_start_time_12:  12890.2688570  s
 sensing_position_12:    4183671.0836   3862105.8514   4192752.4276   m   m   m
@@ -291,15 +291,15 @@ az_fmrate_date_12:      2023-01-29T03:34:50.677302
 az_fmrate_time_12:      12890.677302   s
 az_fmrate_srdelay_12:    6.01466e-03   s
 az_fmrate_polynomial_12: -2056.66295  353395.02488  -5.40406e+07   0.00000e+00   0.00000e+00
-first_valid_sample_12:     494         samples
+first_valid_sample_12:     540         samples
 last_valid_sample_12:    24162         samples
-first_valid_line_12:        28         lines
+first_valid_line_12:        30         lines
 last_valid_line_12:       1493         lines
-burst_win_12:      903347.17696   960092.97772    12889.307698    12892.068310     761   24360      88    1344
-ext_burst_win_12:  902741.49084   960092.97772    12889.184365    12892.191643     501   24620      28    1464
+burst_win_12:      902733.93604   959975.00263    12889.300296    12892.060926     541   24580      86    1344
+ext_burst_win_12:  902733.93604   959975.00263    12889.185184    12892.192483     541   24580      30    1464
 
 burst_date_13:          2023-01-29T03:34:51.883310
-burst_start_time_13:    12891.8833100  s
+burst_start_time_13:    12891.8820921  s
 sensing_date_13:        2023-01-29T03:34:53.027134
 sensing_start_time_13:  12893.0271340  s
 sensing_position_13:    4195813.3093   3866771.3875   4176334.8459   m   m   m
@@ -315,15 +315,15 @@ az_fmrate_date_13:      2023-01-29T03:34:53.435579
 az_fmrate_time_13:      12893.435579   s
 az_fmrate_srdelay_13:    6.01466e-03   s
 az_fmrate_polynomial_13: -2056.75769  353387.19307  -5.40364e+07   0.00000e+00   0.00000e+00
-first_valid_sample_13:     427         samples
+first_valid_sample_13:     473         samples
 last_valid_sample_13:    24095         samples
-first_valid_line_13:        28         lines
+first_valid_line_13:        29         lines
 last_valid_line_13:       1493         lines
-burst_win_13:      903300.58572   960092.97772    12892.070366    12894.822756     741   24380      91    1340
-ext_burst_win_13:  902601.71712   960092.97772    12891.947032    12894.946089     441   24680      31    1460
+burst_win_13:      902594.20440   959975.00263    12892.062982    12894.823612     481   24640      88    1344
+ext_burst_win_13:  902594.20440   959975.00263    12891.947870    12894.938724     481   24640      32    1460
 
 burst_date_14:          2023-01-29T03:34:54.645979
-burst_start_time_14:    12894.6459790  s
+burst_start_time_14:    12894.6406661  s
 sensing_date_14:        2023-01-29T03:34:55.785410
 sensing_start_time_14:  12895.7854100  s
 sensing_position_14:    4207921.6115   3871399.0628   4159881.3905   m   m   m
@@ -339,15 +339,15 @@ az_fmrate_date_14:      2023-01-29T03:34:53.439891
 az_fmrate_time_14:      12893.439891   s
 az_fmrate_srdelay_14:    6.01466e-03   s
 az_fmrate_polynomial_14: -2056.75769  353387.19307  -5.40364e+07   0.00000e+00   0.00000e+00
-first_valid_sample_14:     427         samples
-last_valid_sample_14:    24095         samples
-first_valid_line_14:        28         lines
+first_valid_sample_14:     473         samples
+last_valid_sample_14:    24096         samples
+first_valid_line_14:        31         lines
 last_valid_line_14:       1493         lines
-burst_win_14:      903300.58572   960092.97772    12894.824811    12897.585423     741   24380      87    1344
-ext_burst_win_14:  902601.71712   960092.97772    12894.709700    12897.708757     441   24680      31    1460
+burst_win_14:      902594.20440   959975.00263    12894.825667    12897.578075     481   24640      90    1340
+ext_burst_win_14:  902594.20440   959975.00263    12894.710555    12897.701409     481   24640      34    1460
 
 burst_date_15:          2023-01-29T03:34:57.400424
-burst_start_time_15:    12897.4004240  s
+burst_start_time_15:    12897.4012961  s
 sensing_date_15:        2023-01-29T03:34:58.543687
 sensing_start_time_15:  12898.5436870  s
 sensing_position_15:    4219995.8857   3875988.8566   4143392.1832   m   m   m
@@ -363,15 +363,15 @@ az_fmrate_date_15:      2023-01-29T03:34:56.198168
 az_fmrate_time_15:      12896.198168   s
 az_fmrate_srdelay_15:    6.01466e-03   s
 az_fmrate_polynomial_15: -2056.82832  353375.29641  -5.40301e+07   0.00000e+00   0.00000e+00
-first_valid_sample_15:     427         samples
-last_valid_sample_15:    24095         samples
+first_valid_sample_15:     473         samples
+last_valid_sample_15:    24096         samples
 first_valid_line_15:        29         lines
-last_valid_line_15:       1493         lines
-burst_win_15:      903300.58572   960092.97772    12897.587479    12900.339869     741   24380      91    1340
-ext_burst_win_15:  902601.71712   960092.97772    12897.464145    12900.463202     441   24680      31    1460
+last_valid_line_15:       1492         lines
+burst_win_15:      902594.20440   959975.00263    12897.580131    12900.340761     481   24640      87    1344
+ext_burst_win_15:  902594.20440   959975.00263    12897.465019    12900.455873     481   24640      31    1460
 
 burst_date_16:          2023-01-29T03:35:00.156925
-burst_start_time_16:    12900.1569250  s
+burst_start_time_16:    12900.1557591  s
 sensing_date_16:        2023-01-29T03:35:01.301964
 sensing_start_time_16:  12901.3019640  s
 sensing_position_16:    4232036.0063   3880540.7406   4126867.3751   m   m   m
@@ -387,15 +387,15 @@ az_fmrate_date_16:      2023-01-29T03:34:58.956445
 az_fmrate_time_16:      12898.956445   s
 az_fmrate_srdelay_16:    6.01466e-03   s
 az_fmrate_polynomial_16: -2056.88886  353363.24236  -5.40262e+07   0.00000e+00   0.00000e+00
-first_valid_sample_16:     427         samples
+first_valid_sample_16:     473         samples
 last_valid_sample_16:    24095         samples
-first_valid_line_16:        29         lines
+first_valid_line_16:        30         lines
 last_valid_line_16:       1491         lines
-burst_win_16:      903300.58572   960092.97772    12900.341924    12903.094314     741   24380      90    1340
-ext_burst_win_16:  902601.71712   960092.97772    12900.218591    12903.217647     441   24680      30    1460
+burst_win_16:      902594.20440   959975.00263    12900.342816    12903.095224     481   24640      91    1340
+ext_burst_win_16:  902594.20440   959975.00263    12900.219482    12903.218558     481   24640      31    1460
 
 burst_date_17:          2023-01-29T03:35:02.915482
-burst_start_time_17:    12902.9154820  s
+burst_start_time_17:    12902.9184452  s
 sensing_date_17:        2023-01-29T03:35:04.060241
 sensing_start_time_17:  12904.0602410  s
 sensing_position_17:    4244041.8551   3885054.6895   4110307.1081   m   m   m
@@ -411,15 +411,15 @@ az_fmrate_date_17:      2023-01-29T03:35:01.714722
 az_fmrate_time_17:      12901.714722   s
 az_fmrate_srdelay_17:    6.01466e-03   s
 az_fmrate_polynomial_17: -2056.96304  353354.05310  -5.40247e+07   0.00000e+00   0.00000e+00
-first_valid_sample_17:     427         samples
+first_valid_sample_17:     473         samples
 last_valid_sample_17:    24095         samples
 first_valid_line_17:        29         lines
-last_valid_line_17:       1491         lines
-burst_win_17:      903300.58572   960092.97772    12903.096370    12905.856982     741   24380      88    1344
-ext_burst_win_17:  902601.71712   960092.97772    12902.981258    12905.980315     441   24680      32    1460
+last_valid_line_17:        734         lines
+burst_win_17:      902594.20440   959975.00263    12903.097280    12905.857910     481   24640      87    1344
+ext_burst_win_17:  902594.20440   959975.00263    12902.982168    12904.427233     481   24640      31     704
 
 burst_date_18:          2023-01-29T03:35:05.671983
-burst_start_time_18:    12905.6719830  s
+burst_start_time_18:    12905.6811302  s
 sensing_date_18:        2023-01-29T03:35:06.818518
 sensing_start_time_18:  12906.8185180  s
 sensing_position_18:    4256013.3143   3889530.6784   4093711.5242   m   m   m
@@ -435,15 +435,15 @@ az_fmrate_date_18:      2023-01-29T03:35:04.472999
 az_fmrate_time_18:      12904.472999   s
 az_fmrate_srdelay_18:    6.01466e-03   s
 az_fmrate_polynomial_18: -2057.04650  353344.99125  -5.40221e+07   0.00000e+00   0.00000e+00
-first_valid_sample_18:     427         samples
-last_valid_sample_18:    24095         samples
-first_valid_line_18:        30         lines
-last_valid_line_18:       1490         lines
-burst_win_18:      903300.58572   960092.97772    12905.859037    12908.611427     741   24380      91    1340
-ext_burst_win_18:  902601.71712   960092.97772    12905.735704    12908.734761     441   24680      31    1460
+first_valid_sample_18:     473         samples
+last_valid_sample_18:    12490         samples
+first_valid_line_18:       473         lines
+last_valid_line_18:       1485         lines
+burst_win_18:      902594.20440   959975.00263    12905.859965    12908.620595     481   24640      87    1344
+ext_burst_win_18:  902594.20440   959975.00263    12906.657526    12907.814812     481   24640     475    1008
 
 burst_date_19:          2023-01-29T03:35:08.442873
-burst_start_time_19:    12908.4428730  s
+burst_start_time_19:    12908.4376492  s
 sensing_date_19:        2023-01-29T03:35:09.576795
 sensing_start_time_19:  12909.5767950  s
 sensing_position_19:    4267950.2662   3893968.6828   4077080.7659   m   m   m
@@ -459,15 +459,15 @@ az_fmrate_date_19:      2023-01-29T03:35:07.231276
 az_fmrate_time_19:      12907.231276   s
 az_fmrate_srdelay_19:    6.01466e-03   s
 az_fmrate_polynomial_19: -2057.12245  353333.92273  -5.40168e+07   0.00000e+00   0.00000e+00
-first_valid_sample_19:     427         samples
-last_valid_sample_19:    24095         samples
-first_valid_line_19:        29         lines
-last_valid_line_19:       1492         lines
-burst_win_19:      903300.58572   960092.97772    12908.613483    12911.382317     741   24380      83    1348
-ext_burst_win_19:  902601.71712   960092.97772    12908.506594    12911.505650     441   24680      31    1460
+first_valid_sample_19:     474         samples
+last_valid_sample_19:    17270         samples
+first_valid_line_19:       264         lines
+last_valid_line_19:       1493         lines
+burst_win_19:      902594.20440   959975.00263    12908.622650    12911.375058     481   24640      90    1340
+ext_burst_win_19:  902594.20440   959975.00263    12908.984431    12911.021500     481   24640     266    1228
 
 burst_date_20:          2023-01-29T03:35:11.199374
-burst_start_time_20:    12911.1993740  s
+burst_start_time_20:    12911.1941682  s
 sensing_date_20:        2023-01-29T03:35:12.335072
 sensing_start_time_20:  12912.3350720  s
 sensing_position_20:    4279852.5937   3898368.6787   4060414.9759   m   m   m
@@ -483,15 +483,15 @@ az_fmrate_date_20:      2023-01-29T03:35:09.989553
 az_fmrate_time_20:      12909.989553   s
 az_fmrate_srdelay_20:    6.01466e-03   s
 az_fmrate_polynomial_20: -2057.18811  353322.45606  -5.40125e+07   0.00000e+00   0.00000e+00
-first_valid_sample_20:     427         samples
-last_valid_sample_20:    24095         samples
-first_valid_line_20:        30         lines
-last_valid_line_20:       1491         lines
-burst_win_20:      903207.40324   960092.97772    12911.384373    12914.136763     701   24420      90    1340
-ext_burst_win_20:  902601.71712   960092.97772    12911.261039    12914.260096     441   24680      30    1460
+first_valid_sample_20:     474         samples
+last_valid_sample_20:    17800         samples
+first_valid_line_20:        33         lines
+last_valid_line_20:       1222         lines
+burst_win_20:      902594.20440   959975.00263    12911.377114    12914.129522     481   24640      89    1340
+ext_burst_win_20:  902594.20440   959975.00263    12911.262002    12913.701963     481   24640      33    1188
 
 burst_date_21:          2023-01-29T03:35:13.953819
-burst_start_time_21:    12913.9538190  s
+burst_start_time_21:    12913.9568543  s
 sensing_date_21:        2023-01-29T03:35:15.093349
 sensing_start_time_21:  12915.0933490  s
 sensing_position_21:    4291720.1795   3902730.6422   4043714.2971   m   m   m
@@ -507,15 +507,15 @@ az_fmrate_date_21:      2023-01-29T03:35:12.747830
 az_fmrate_time_21:      12912.747830   s
 az_fmrate_srdelay_21:    6.01466e-03   s
 az_fmrate_polynomial_21: -2057.27826  353313.71086  -5.40088e+07   0.00000e+00   0.00000e+00
-first_valid_sample_21:     362         samples
-last_valid_sample_21:    24030         samples
-first_valid_line_21:        28         lines
-last_valid_line_21:       1493         lines
-burst_win_21:      903114.22076   960092.97772    12914.138818    12916.891208     661   24460      90    1340
-ext_burst_win_21:  902461.94340   960092.97772    12914.015485    12917.022764     381   24740      30    1464
+first_valid_sample_21:     409         samples
+last_valid_sample_21:    13170         samples
+first_valid_line_21:        30         lines
+last_valid_line_21:       1491         lines
+burst_win_21:      902454.47276   959975.00263    12914.131578    12916.892208     421   24700      85    1344
+ext_burst_win_21:  902454.47276   959975.00263    12914.024688    12917.015542     421   24700      33    1456
 
 burst_date_22:          2023-01-29T03:35:16.706209
-burst_start_time_22:    12916.7062090  s
+burst_start_time_22:    12916.7133733  s
 sensing_date_22:        2023-01-29T03:35:17.851626
 sensing_start_time_22:  12917.8516260  s
 sensing_position_22:    4303552.9071   3907054.5499   4026978.8729   m   m   m
@@ -531,15 +531,15 @@ az_fmrate_date_22:      2023-01-29T03:35:15.506107
 az_fmrate_time_22:      12915.506107   s
 az_fmrate_srdelay_22:    6.01466e-03   s
 az_fmrate_polynomial_22: -2057.37126  353304.76798  -5.40037e+07   0.00000e+00   0.00000e+00
-first_valid_sample_22:     362         samples
-last_valid_sample_22:    24030         samples
-first_valid_line_22:        30         lines
-last_valid_line_22:       1487         lines
-burst_win_22:      903114.22076   960092.97772    12916.893264    12919.645653     661   24460      91    1340
-ext_burst_win_22:  902461.94340   960092.97772    12916.769930    12919.760765     381   24740      31    1456
+first_valid_sample_22:     409         samples
+last_valid_sample_22:    14150         samples
+first_valid_line_22:        27         lines
+last_valid_line_22:       1483         lines
+burst_win_22:      902454.47276   959975.00263    12916.894263    12919.654894     421   24700      88    1344
+ext_burst_win_22:  902454.47276   959975.00263    12916.770929    12919.761783     421   24700      28    1456
 
 burst_date_23:          2023-01-29T03:35:19.466820
-burst_start_time_23:    12919.4668200  s
+burst_start_time_23:    12919.4678373  s
 sensing_date_23:        2023-01-29T03:35:20.609902
 sensing_start_time_23:  12920.6099020  s
 sensing_position_23:    4315350.6559   3911340.3774   4010208.8526   m   m   m
@@ -555,15 +555,15 @@ az_fmrate_date_23:      2023-01-29T03:35:18.258759
 az_fmrate_time_23:      12918.258759   s
 az_fmrate_srdelay_23:    6.01466e-03   s
 az_fmrate_polynomial_23: -2057.44874  353294.66345  -5.40006e+07   0.00000e+00   0.00000e+00
-first_valid_sample_23:     362         samples
-last_valid_sample_23:    24030         samples
+first_valid_sample_23:     409         samples
+last_valid_sample_23:    14670         samples
 first_valid_line_23:        30         lines
-last_valid_line_23:       1490         lines
-burst_win_23:      903114.22076   960092.97772    12919.647709    12922.408321     661   24460      88    1344
-ext_burst_win_23:  902461.94340   960092.97772    12919.532598    12922.523432     381   24740      32    1456
+last_valid_line_23:       1489         lines
+burst_win_23:      902454.47276   959975.00263    12919.656950    12922.409358     421   24700      92    1340
+ext_burst_win_23:  902454.47276   959975.00263    12919.533615    12922.516247     421   24700      32    1456
 
 burst_date_24:          2023-01-29T03:35:22.225377
-burst_start_time_24:    12922.2253770  s
+burst_start_time_24:    12922.2264123  s
 sensing_date_24:        2023-01-29T03:35:23.368179
 sensing_start_time_24:  12923.3681790  s
 sensing_position_24:    4327113.3176   3915588.1048   3993404.3691   m   m   m
@@ -579,15 +579,15 @@ az_fmrate_date_24:      2023-01-29T03:35:21.017036
 az_fmrate_time_24:      12921.017036   s
 az_fmrate_srdelay_24:    6.01466e-03   s
 az_fmrate_polynomial_24: -2057.54628  353288.23687  -5.40006e+07   0.00000e+00   0.00000e+00
-first_valid_sample_24:     362         samples
-last_valid_sample_24:    24030         samples
+first_valid_sample_24:     409         samples
+last_valid_sample_24:    16840         samples
 first_valid_line_24:        31         lines
-last_valid_line_24:       1488         lines
-burst_win_24:      903114.22076   960092.97772    12922.410377    12925.162767     661   24460      90    1340
-ext_burst_win_24:  902461.94340   960092.97772    12922.295265    12925.277878     381   24740      34    1452
+last_valid_line_24:       1299         lines
+burst_win_24:      902454.47276   959975.00263    12922.411414    12925.163821     421   24700      90    1340
+ext_burst_win_24:  902454.47276   959975.00263    12922.296302    12924.884264     421   24700      34    1264
 
 burst_date_25:          2023-01-29T03:35:24.981878
-burst_start_time_25:    12924.9818780  s
+burst_start_time_25:    12924.9829313  s
 sensing_date_25:        2023-01-29T03:35:26.126456
 sensing_start_time_25:  12926.1264560  s
 sensing_position_25:    4338840.7726   3919797.7086   3976565.5718   m   m   m
@@ -603,10 +603,10 @@ az_fmrate_date_25:      2023-01-29T03:35:23.775313
 az_fmrate_time_25:      12923.775313   s
 az_fmrate_srdelay_25:    6.01466e-03   s
 az_fmrate_polynomial_25: -2057.65250  353280.91938  -5.39952e+07   0.00000e+00   0.00000e+00
-first_valid_sample_25:     362         samples
-last_valid_sample_25:    24030         samples
+first_valid_sample_25:     409         samples
+last_valid_sample_25:    12590         samples
 first_valid_line_25:        30         lines
-last_valid_line_25:       1490         lines
-burst_win_25:      903114.22076   960092.97772    12925.164822    12928.098101     661   24460      89    1428
-ext_burst_win_25:  902461.94340   960092.97772    12925.049711    12928.098101     381   24740      33    1484
+last_valid_line_25:        340         lines
+burst_win_25:      902454.47276   959975.00263    12925.165877    12928.099175     421   24700      89    1428
+ext_burst_win_25:  902454.47276   959975.00263    12925.050765    12928.099175     421   24700      33    1484
 
