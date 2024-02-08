@@ -3,31 +3,31 @@ Gamma Interferometric SAR Processor (ISP) - Image Parameter File
 title:     s1a-iw1-slc-vv-20230129t033403-20230129t033428-046993-05a2fe-004.tiff S1A-IW-IW1-VV-46993 (software: Sentinel-1 IPF 003.52)
 sensor:    S1A IW IW1 VV
 date:      2023 01 29 03 34 16.88746
-start_time:             12856.882521   s
-center_time:            12892.489100   s
-end_time:               12928.095678   s
-azimuth_line_time:     8.2222788e-03   s
+start_time:             12856.890547   s
+center_time:            12892.492782   s
+end_time:               12928.095018   s
+azimuth_line_time:     8.2222252e-03   s
 line_header_size:                  0
 range_samples:                  3447
-azimuth_lines:                  8662
+azimuth_lines:                  8661
 range_looks:                      20
 azimuth_looks:                     4
 image_format:               FLOAT
 image_geometry:             SLANT_RANGE
-range_scale_factor:     9.9969895e-01
-azimuth_scale_factor:   1.0000065e+00
-center_latitude:          37.3243883   degrees
-center_longitude:         37.1188714   degrees
-heading:                 193.2511327   degrees
-range_pixel_spacing:       46.577220   m
-azimuth_pixel_spacing:     55.834644   m
-near_range_slc:           799448.0244  m
-center_range_slc:         879700.5744  m
-far_range_slc:            959953.1245  m
+range_scale_factor:     1.0000000e+00
+azimuth_scale_factor:   1.0000000e+00
+center_latitude:          37.3243947   degrees
+center_longitude:         37.1171907   degrees
+heading:                 193.2511125   degrees
+range_pixel_spacing:       46.591240   m
+azimuth_pixel_spacing:     55.834280   m
+near_range_slc:           799517.4338  m
+center_range_slc:         879794.1404  m
+far_range_slc:            960070.8469  m
 first_slant_range_polynomial:        0.00000      0.00000  0.00000e+00  0.00000e+00  0.00000e+00  0.00000e+00  s m 1 m^-1 m^-2 m^-3 
 center_slant_range_polynomial:       0.00000      0.00000  0.00000e+00  0.00000e+00  0.00000e+00  0.00000e+00  s m 1 m^-1 m^-2 m^-3 
 last_slant_range_polynomial:         0.00000      0.00000  0.00000e+00  0.00000e+00  0.00000e+00  0.00000e+00  s m 1 m^-1 m^-2 m^-3 
-incidence_angle:             39.5503   degrees
+incidence_angle:             39.5590   degrees
 azimuth_deskew:          ON
 azimuth_angle:               90.0000   degrees
 radar_frequency:        5.4050005e+09  Hz
@@ -40,8 +40,8 @@ doppler_poly_dot:        0.00000e+00  0.00000e+00  0.00000e+00  0.00000e+00  Hz/
 doppler_poly_ddot:       0.00000e+00  0.00000e+00  0.00000e+00  0.00000e+00  Hz/s^2 Hz/s^2/m Hz/s^2/m^2 Hz/s^2/m^3
 receiver_gain:                 0.0000  dB
 calibration_gain:             60.0000  dB
-sar_to_earth_center:             7070959.2260   m
-earth_radius_below_sensor:       6370416.9895   m
+sar_to_earth_center:             7070959.2732   m
+earth_radius_below_sensor:       6370416.9873   m
 earth_semi_major_axis:           6378137.0000   m
 earth_semi_minor_axis:           6356752.3141   m
 number_of_state_vectors:                   19
@@ -85,3 +85,4 @@ state_vector_position_18:   4528616.7995    3984200.4759    3691617.3812   m   m
 state_vector_velocity_18:     4026.65301      1288.27131     -6309.71878   m/s m/s m/s
 state_vector_position_19:   4568637.9749    3996830.3436    3628312.8982   m   m   m
 state_vector_velocity_19:     3977.49484      1237.69046     -6351.05879   m/s m/s m/s
+
