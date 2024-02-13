@@ -2,7 +2,7 @@ Gamma Interferometric SAR Processor (ISP) - ScanSAR Burst Parameter File
 number_of_bursts:    25
 lines_per_burst:   1502
 data_type:        SCOMPLEX
-range_samples:    22244
+range_samples:    22245
 range_looks:          1
 azimuth_looks:        1
 az_steering_rate: -1.590368784  (deg/s)
@@ -11,7 +11,7 @@ ascending_node_t0: 10537.441640  s
 burst_interval:       2.7582770  s
 
 burst_date_1:          2023-01-17T03:34:16.724349
-burst_start_time_1:    12856.7243490  s
+burst_start_time_1:    12856.7158831  s
 sensing_date_1:        2023-01-17T03:34:17.848290
 sensing_start_time_1:  12857.8482900  s
 sensing_position_1:    4039016.2679   3804964.5449   4381984.3888   m   m   m
@@ -28,21 +28,21 @@ az_fmrate_time_1:      12855.488893   s
 az_fmrate_srdelay_1:    5.33366e-03   s
 az_fmrate_polynomial_1: -2328.16522  450885.37458  -7.89438e+07   0.00000e+00   0.00000e+00
 first_valid_sample_1:     680         samples
-last_valid_sample_1:    21134         samples
-first_valid_line_1:        19         lines
+last_valid_sample_1:    21110         samples
+first_valid_line_1:        24         lines
 last_valid_line_1:       1484         lines
-burst_win_1:      799495.30300   848087.63676    12856.724349    12859.649406       0   20860       0    1424
-ext_burst_win_1:  799495.30300   848693.32288    12856.724349    12859.772739       0   21120       0    1484
+burst_win_1:      799547.24325   848142.64335    12856.715883    12859.632742       0   20860       0    1420
+ext_burst_win_1:  799547.24325   848701.77352    12856.715883    12859.764298       0   21100       0    1484
 
 burst_date_2:          2023-01-17T03:34:19.482905
-burst_start_time_2:    12859.4829050  s
+burst_start_time_2:    12859.4724070  s
 sensing_date_2:        2023-01-17T03:34:20.606567
 sensing_start_time_2:  12860.6065670  s
 sensing_position_2:    4051545.9523   3810071.2266   4365996.6967   m   m   m
 sensing_velocity_2:      4536.69147     1844.60173    -5803.06855   m/s m/s m/s
 asc_node_delta_2:       2323.1649270  s
 burst_asc_node_2:        842.2522201  bursts
-burst_boffset_2:       133641952
+burst_boffset_2:       133647960
 doppler_date_2:        2023-01-17T03:34:19.209909
 doppler_time_2:        12859.209909   s
 doppler_srdelay_2:      5.34423e-03   s
@@ -52,21 +52,21 @@ az_fmrate_time_2:      12858.247170   s
 az_fmrate_srdelay_2:    5.33366e-03   s
 az_fmrate_polynomial_2: -2328.20452  450861.84689  -7.89279e+07   0.00000e+00   0.00000e+00
 first_valid_sample_2:     680         samples
-last_valid_sample_2:    21134         samples
-first_valid_line_2:        20         lines
-last_valid_line_2:       1483         lines
-burst_win_2:      799495.30300   848087.63676    12859.651461    12862.403851       0   20860      82    1340
-ext_burst_win_2:  799495.30300   848693.32288    12859.528128    12862.527184       0   21120      22    1460
+last_valid_sample_2:    21110         samples
+first_valid_line_2:        26         lines
+last_valid_line_2:       1482         lines
+burst_win_2:      799547.24325   848142.64335    12859.634797    12862.395432       0   20860      79    1344
+ext_burst_win_2:  799547.24325   848701.77352    12859.527907    12862.510544       0   21100      27    1456
 
 burst_date_3:          2023-01-17T03:34:22.241462
-burst_start_time_3:    12862.2414620  s
+burst_start_time_3:    12862.2371529  s
 sensing_date_3:        2023-01-17T03:34:23.364844
 sensing_start_time_3:  12863.3648440  s
 sensing_position_3:    4064043.1306   3815140.3797   4349971.4939   m   m   m
 sensing_velocity_3:      4524.88445     1830.99040    -5816.64297   m/s m/s m/s
 asc_node_delta_3:       2325.9232040  s
 burst_asc_node_3:        843.2522201  bursts
-burst_boffset_3:       267283904
+burst_boffset_3:       267295920
 doppler_date_3:        2023-01-17T03:34:21.968186
 doppler_time_3:        12861.968186   s
 doppler_srdelay_3:      5.34423e-03   s
@@ -76,21 +76,21 @@ az_fmrate_time_3:      12861.005447   s
 az_fmrate_srdelay_3:    5.33366e-03   s
 az_fmrate_polynomial_3: -2328.26169  450843.69085  -7.89232e+07   0.00000e+00   0.00000e+00
 first_valid_sample_3:     680         samples
-last_valid_sample_3:    21134         samples
-first_valid_line_3:        20         lines
-last_valid_line_3:       1485         lines
-burst_win_3:      799495.30300   848087.63676    12862.405907    12865.158296       0   20860      80    1340
-ext_burst_win_3:  799495.30300   848693.32288    12862.282573    12865.289852       0   21120      20    1464
+last_valid_sample_3:    21110         samples
+first_valid_line_3:        23         lines
+last_valid_line_3:       1484         lines
+burst_win_3:      799547.24325   848142.64335    12862.397488    12865.158123       0   20860      78    1344
+ext_burst_win_3:  799547.24325   848701.77352    12862.290598    12865.273235       0   21100      26    1456
 
 burst_date_4:          2023-01-17T03:34:24.997963
-burst_start_time_4:    12864.9979630  s
+burst_start_time_4:    12864.9916217  s
 sensing_date_4:        2023-01-17T03:34:26.123121
 sensing_start_time_4:  12866.1231210  s
 sensing_position_4:    4076507.6809   3820171.9738   4333908.9178   m   m   m
 sensing_velocity_4:      4513.03326     1817.36813    -5830.16750   m/s m/s m/s
 asc_node_delta_4:       2328.6814810  s
 burst_asc_node_4:        844.2522201  bursts
-burst_boffset_4:       400925856
+burst_boffset_4:       400943880
 doppler_date_4:        2023-01-17T03:34:24.726463
 doppler_time_4:        12864.726463   s
 doppler_srdelay_4:      5.34423e-03   s
@@ -100,21 +100,21 @@ az_fmrate_time_4:      12863.763724   s
 az_fmrate_srdelay_4:    5.33366e-03   s
 az_fmrate_polynomial_4: -2328.29589  450822.46681  -7.89171e+07   0.00000e+00   0.00000e+00
 first_valid_sample_4:     596         samples
-last_valid_sample_4:    21050         samples
-first_valid_line_4:        20         lines
+last_valid_sample_4:    21026         samples
+first_valid_line_4:        24         lines
 last_valid_line_4:       1484         lines
-burst_win_4:      799495.30300   847994.45428    12865.160352    12867.920964       0   20820      79    1344
-ext_burst_win_4:  799495.30300   848506.95792    12865.045241    12868.044298       0   21040      23    1460
+burst_win_4:      799547.24325   848049.45499    12865.160179    12867.912591       0   20820      82    1340
+ext_burst_win_4:  799547.24325   848515.39680    12865.045067    12868.027703       0   21020      26    1456
 
 burst_date_5:          2023-01-17T03:34:27.756520
-burst_start_time_5:    12867.7565200  s
+burst_start_time_5:    12867.7502005  s
 sensing_date_5:        2023-01-17T03:34:28.881397
 sensing_start_time_5:  12868.8813970  s
 sensing_position_5:    4088939.4767   3825165.9771   4317809.1126   m   m   m
 sensing_velocity_5:      4501.13803     1803.73506    -5843.64202   m/s m/s m/s
 asc_node_delta_5:       2331.4397570  s
 burst_asc_node_5:        845.2522198  bursts
-burst_boffset_5:       534567808
+burst_boffset_5:       534591840
 doppler_date_5:        2023-01-17T03:34:27.483969
 doppler_time_5:        12867.483969   s
 doppler_srdelay_5:      5.34293e-03   s
@@ -124,21 +124,21 @@ az_fmrate_time_5:      12866.521229   s
 az_fmrate_srdelay_5:    5.33366e-03   s
 az_fmrate_polynomial_5: -2328.34431  450801.80386  -7.89092e+07   0.00000e+00   0.00000e+00
 first_valid_sample_5:     596         samples
-last_valid_sample_5:    21050         samples
-first_valid_line_5:        21         lines
+last_valid_sample_5:    21026         samples
+first_valid_line_5:        25         lines
 last_valid_line_5:       1483         lines
-burst_win_5:      799495.30300   847901.27180    12867.923020    12870.675410       0   20780      81    1340
-ext_burst_win_5:  799495.30300   848506.95792    12867.799686    12870.798743       0   21040      21    1460
+burst_win_5:      799547.24325   847956.26663    12867.914646    12870.667059       0   20780      80    1340
+ext_burst_win_5:  799547.24325   848515.39680    12867.807757    12870.790393       0   21020      28    1456
 
 burst_date_6:          2023-01-17T03:34:30.515076
-burst_start_time_6:    12870.5150760  s
+burst_start_time_6:    12870.5108353  s
 sensing_date_6:        2023-01-17T03:34:31.639674
 sensing_start_time_6:  12871.6396740  s
 sensing_position_6:    4101338.4066   3830122.3639   4301672.2035   m   m   m
 sensing_velocity_6:      4489.19883     1790.09132    -5857.06642   m/s m/s m/s
 asc_node_delta_6:       2334.1980340  s
 burst_asc_node_6:        846.2522198  bursts
-burst_boffset_6:       668209760
+burst_boffset_6:       668239800
 doppler_date_6:        2023-01-17T03:34:30.242246
 doppler_time_6:        12870.242246   s
 doppler_srdelay_6:      5.34293e-03   s
@@ -148,21 +148,21 @@ az_fmrate_time_6:      12869.279506   s
 az_fmrate_srdelay_6:    5.33366e-03   s
 az_fmrate_polynomial_6: -2328.39893  450781.20655  -7.88992e+07   0.00000e+00   0.00000e+00
 first_valid_sample_6:     596         samples
-last_valid_sample_6:    21050         samples
-first_valid_line_6:        21         lines
-last_valid_line_6:       1484         lines
-burst_win_6:      799495.30300   847901.27180    12870.677465    12873.438077       0   20780      79    1344
-ext_burst_win_6:  799495.30300   848506.95792    12870.562354    12873.561411       0   21040      23    1460
+last_valid_sample_6:    21026         samples
+first_valid_line_6:        24         lines
+last_valid_line_6:       1483         lines
+burst_win_6:      799547.24325   847956.26663    12870.669114    12873.429749       0   20780      77    1344
+ext_burst_win_6:  799547.24325   848515.39680    12870.562225    12873.544862       0   21020      25    1456
 
 burst_date_7:          2023-01-17T03:34:33.275688
-burst_start_time_7:    12873.2756880  s
+burst_start_time_7:    12873.2714702  s
 sensing_date_7:        2023-01-17T03:34:34.397951
 sensing_start_time_7:  12874.3979510  s
 sensing_position_7:    4113704.3443   3835041.1029   4285498.3355   m   m   m
 sensing_velocity_7:      4477.21576     1776.43706    -5870.44057   m/s m/s m/s
 asc_node_delta_7:       2336.9563110  s
 burst_asc_node_7:        847.2522198  bursts
-burst_boffset_7:       801851712
+burst_boffset_7:       801887760
 doppler_date_7:        2023-01-17T03:34:33.000523
 doppler_time_7:        12873.000523   s
 doppler_srdelay_7:      5.34293e-03   s
@@ -172,21 +172,21 @@ az_fmrate_time_7:      12872.037783   s
 az_fmrate_srdelay_7:    5.33366e-03   s
 az_fmrate_polynomial_7: -2328.44488  450760.20483  -7.88905e+07   0.00000e+00   0.00000e+00
 first_valid_sample_7:     596         samples
-last_valid_sample_7:    21050         samples
-first_valid_line_7:        20         lines
-last_valid_line_7:       1484         lines
-burst_win_7:      799495.30300   847901.27180    12873.440133    12876.192523       0   20780      80    1340
-ext_burst_win_7:  799495.30300   848506.95792    12873.316799    12876.324078       0   21040      20    1464
+last_valid_sample_7:    21026         samples
+first_valid_line_7:        23         lines
+last_valid_line_7:       1483         lines
+burst_win_7:      799547.24325   847956.26663    12873.431805    12876.192440       0   20780      78    1344
+ext_burst_win_7:  799547.24325   848515.39680    12873.324915    12876.307552       0   21020      26    1456
 
 burst_date_8:          2023-01-17T03:34:36.034245
-burst_start_time_8:    12876.0342450  s
+burst_start_time_8:    12876.0279940  s
 sensing_date_8:        2023-01-17T03:34:37.156228
 sensing_start_time_8:  12877.1562280  s
 sensing_position_8:    4126037.1691   3839922.1653   4269287.6472   m   m   m
 sensing_velocity_8:      4465.18894     1762.77239    -5883.76436   m/s m/s m/s
 asc_node_delta_8:       2339.7145880  s
 burst_asc_node_8:        848.2522198  bursts
-burst_boffset_8:       935493664
+burst_boffset_8:       935535720
 doppler_date_8:        2023-01-17T03:34:35.758800
 doppler_time_8:        12875.758800   s
 doppler_srdelay_8:      5.34293e-03   s
@@ -196,21 +196,21 @@ az_fmrate_time_8:      12874.796060   s
 az_fmrate_srdelay_8:    5.33366e-03   s
 az_fmrate_polynomial_8: -2328.61256  450746.87629  -7.88773e+07   0.00000e+00   0.00000e+00
 first_valid_sample_8:     596         samples
-last_valid_sample_8:    21050         samples
-first_valid_line_8:        19         lines
+last_valid_sample_8:    21026         samples
+first_valid_line_8:        23         lines
 last_valid_line_8:       1484         lines
-burst_win_8:      799495.30300   847901.27180    12876.194578    12878.955190       0   20780      78    1344
-ext_burst_win_8:  799495.30300   848506.95792    12876.079467    12879.078524       0   21040      22    1460
+burst_win_8:      799547.24325   847956.26663    12876.194495    12878.946908       0   20780      81    1340
+ext_burst_win_8:  799547.24325   848515.39680    12876.079383    12879.070243       0   21020      25    1460
 
 burst_date_9:          2023-01-17T03:34:38.790746
-burst_start_time_9:    12878.7907460  s
+burst_start_time_9:    12878.7845178  s
 sensing_date_9:        2023-01-17T03:34:39.914505
 sensing_start_time_9:  12879.9145050  s
 sensing_position_9:    4138336.7604   3844765.5226   4253040.2779   m   m   m
 sensing_velocity_9:      4453.11845     1749.09746    -5897.03768   m/s m/s m/s
 asc_node_delta_9:       2342.4728650  s
 burst_asc_node_9:        849.2522198  bursts
-burst_boffset_9:       1069135616
+burst_boffset_9:       1069183680
 doppler_date_9:        2023-01-17T03:34:38.517077
 doppler_time_9:        12878.517077   s
 doppler_srdelay_9:      5.34293e-03   s
@@ -220,21 +220,21 @@ az_fmrate_time_9:      12877.554337   s
 az_fmrate_srdelay_9:    5.33366e-03   s
 az_fmrate_polynomial_9: -2328.73365  450728.68425  -7.88614e+07   0.00000e+00   0.00000e+00
 first_valid_sample_9:     596         samples
-last_valid_sample_9:    21050         samples
-first_valid_line_9:        20         lines
-last_valid_line_9:       1483         lines
-burst_win_9:      799495.30300   847901.27180    12878.957246    12881.709636       0   20780      81    1340
-ext_burst_win_9:  799495.30300   848506.95792    12878.833913    12881.832969       0   21040      21    1460
+last_valid_sample_9:    21026         samples
+first_valid_line_9:        24         lines
+last_valid_line_9:       1482         lines
+burst_win_9:      799547.24325   847956.26663    12878.948964    12881.701376       0   20780      80    1340
+ext_burst_win_9:  799547.24325   848515.39680    12878.833852    12881.816488       0   21020      24    1456
 
 burst_date_10:          2023-01-17T03:34:41.547247
-burst_start_time_10:    12881.5472470  s
+burst_start_time_10:    12881.5410416  s
 sensing_date_10:        2023-01-17T03:34:42.672782
 sensing_start_time_10:  12882.6727820  s
 sensing_position_10:    4150602.9977   3849571.1467   4236756.3667   m   m   m
 sensing_velocity_10:      4441.00439     1735.41241    -5910.26041   m/s m/s m/s
 asc_node_delta_10:       2345.2311420  s
 burst_asc_node_10:        850.2522198  bursts
-burst_boffset_10:       1202777568
+burst_boffset_10:       1202831640
 doppler_date_10:        2023-01-17T03:34:41.275353
 doppler_time_10:        12881.275353   s
 doppler_srdelay_10:      5.34293e-03   s
@@ -244,21 +244,21 @@ az_fmrate_time_10:      12880.312614   s
 az_fmrate_srdelay_10:    5.33366e-03   s
 az_fmrate_polynomial_10: -2328.74691  450706.09031  -7.88553e+07   0.00000e+00   0.00000e+00
 first_valid_sample_10:     596         samples
-last_valid_sample_10:    21050         samples
-first_valid_line_10:        20         lines
-last_valid_line_10:       1483         lines
-burst_win_10:      799495.30300   847901.27180    12881.711691    12884.472303       0   20780      80    1344
-ext_burst_win_10:  799495.30300   848506.95792    12881.588358    12884.595637       0   21040      20    1464
+last_valid_sample_10:    21026         samples
+first_valid_line_10:        24         lines
+last_valid_line_10:       1484         lines
+burst_win_10:      799547.24325   847956.26663    12881.703432    12884.464067       0   20780      79    1344
+ext_burst_win_10:  799547.24325   848515.39680    12881.596542    12884.579179       0   21020      27    1456
 
 burst_date_11:          2023-01-17T03:34:44.305803
-burst_start_time_11:    12884.3058030  s
+burst_start_time_11:    12884.3057875  s
 sensing_date_11:        2023-01-17T03:34:45.431059
 sensing_start_time_11:  12885.4310590  s
 sensing_position_11:    4162835.7612   3854339.0097   4220436.0536   m   m   m
 sensing_velocity_11:      4428.84686     1721.71736    -5923.43243   m/s m/s m/s
 asc_node_delta_11:       2347.9894190  s
 burst_asc_node_11:        851.2522198  bursts
-burst_boffset_11:       1336419520
+burst_boffset_11:       1336479600
 doppler_date_11:        2023-01-17T03:34:44.033630
 doppler_time_11:        12884.033630   s
 doppler_srdelay_11:      5.34293e-03   s
@@ -268,21 +268,21 @@ az_fmrate_time_11:      12883.070891   s
 az_fmrate_srdelay_11:    5.33366e-03   s
 az_fmrate_polynomial_11: -2328.71246  450679.57085  -7.88494e+07   0.00000e+00   0.00000e+00
 first_valid_sample_11:     596         samples
-last_valid_sample_11:    21050         samples
-first_valid_line_11:        20         lines
-last_valid_line_11:       1484         lines
-burst_win_11:      799495.30300   847901.27180    12884.474359    12887.226749       0   20780      82    1340
-ext_burst_win_11:  799495.30300   848506.95792    12884.351026    12887.350082       0   21040      22    1460
+last_valid_sample_11:    21026         samples
+first_valid_line_11:        21         lines
+last_valid_line_11:       1483         lines
+burst_win_11:      799547.24325   847956.26663    12884.466122    12887.226757       0   20780      78    1344
+ext_burst_win_11:  799547.24325   848515.39680    12884.351010    12887.350092       0   21020      22    1460
 
 burst_date_12:          2023-01-17T03:34:47.066415
-burst_start_time_12:    12887.0664150  s
+burst_start_time_12:    12887.0643674  s
 sensing_date_12:        2023-01-17T03:34:48.189336
 sensing_start_time_12:  12888.1893360  s
 sensing_position_12:    4175034.9310   3859069.0845   4204079.4784   m   m   m
 sensing_velocity_12:      4416.64598     1708.01246    -5936.55363   m/s m/s m/s
 asc_node_delta_12:       2350.7476960  s
 burst_asc_node_12:        852.2522198  bursts
-burst_boffset_12:       1470061472
+burst_boffset_12:       1470127560
 doppler_date_12:        2023-01-17T03:34:46.791907
 doppler_time_12:        12886.791907   s
 doppler_srdelay_12:      5.34293e-03   s
@@ -292,21 +292,21 @@ az_fmrate_time_12:      12885.829168   s
 az_fmrate_srdelay_12:    5.33366e-03   s
 az_fmrate_polynomial_12: -2328.75104  450659.14504  -7.88456e+07   0.00000e+00   0.00000e+00
 first_valid_sample_12:     596         samples
-last_valid_sample_12:    21050         samples
-first_valid_line_12:        20         lines
-last_valid_line_12:       1484         lines
-burst_win_12:      799495.30300   847901.27180    12887.228804    12889.989417       0   20780      79    1344
-ext_burst_win_12:  799495.30300   848506.95792    12887.113693    12890.112750       0   21040      23    1460
+last_valid_sample_12:    21026         samples
+first_valid_line_12:        22         lines
+last_valid_line_12:       1483         lines
+burst_win_12:      799547.24325   847956.26663    12887.228813    12889.981226       0   20780      80    1340
+ext_burst_win_12:  799547.24325   848515.39680    12887.113701    12890.104560       0   21020      24    1460
 
 burst_date_13:          2023-01-17T03:34:49.824972
-burst_start_time_13:    12889.8249720  s
+burst_start_time_13:    12889.8188352  s
 sensing_date_13:        2023-01-17T03:34:50.947613
 sensing_start_time_13:  12890.9476130  s
 sensing_position_13:    4187200.3877   3863761.3438   4187686.7815   m   m   m
 sensing_velocity_13:      4404.40182     1694.29783    -5949.62390   m/s m/s m/s
 asc_node_delta_13:       2353.5059730  s
 burst_asc_node_13:        853.2522198  bursts
-burst_boffset_13:       1603703424
+burst_boffset_13:       1603775520
 doppler_date_13:        2023-01-17T03:34:49.550184
 doppler_time_13:        12889.550184   s
 doppler_srdelay_13:      5.34293e-03   s
@@ -316,21 +316,21 @@ az_fmrate_time_13:      12888.587445   s
 az_fmrate_srdelay_13:    5.33366e-03   s
 az_fmrate_polynomial_13: -2328.81395  450638.66418  -7.88349e+07   0.00000e+00   0.00000e+00
 first_valid_sample_13:     514         samples
-last_valid_sample_13:    20967         samples
-first_valid_line_13:        20         lines
+last_valid_sample_13:    20943         samples
+first_valid_line_13:        23         lines
 last_valid_line_13:       1484         lines
-burst_win_13:      799495.30300   847808.08932    12889.991472    12892.743862       0   20740      81    1340
-ext_burst_win_13:  799495.30300   848320.59296    12889.868139    12892.875418       0   20960      21    1464
+burst_win_13:      799547.24325   847863.07827    12889.983281    12892.735694       0   20740      80    1340
+ext_burst_win_13:  799547.24325   848329.02008    12889.868169    12892.859028       0   20940      24    1460
 
 burst_date_14:          2023-01-17T03:34:52.583529
-burst_start_time_14:    12892.5835290  s
+burst_start_time_14:    12892.5794700  s
 sensing_date_14:        2023-01-17T03:34:53.705889
 sensing_start_time_14:  12893.7058890  s
 sensing_position_14:    4199332.0053   3868415.7585   4171258.1127   m   m   m
 sensing_velocity_14:      4392.11451     1680.57362    -5962.64312   m/s m/s m/s
 asc_node_delta_14:       2356.2642490  s
 burst_asc_node_14:        854.2522194  bursts
-burst_boffset_14:       1737345376
+burst_boffset_14:       1737423480
 doppler_date_14:        2023-01-17T03:34:52.307324
 doppler_time_14:        12892.307324   s
 doppler_srdelay_14:      5.34165e-03   s
@@ -340,21 +340,21 @@ az_fmrate_time_14:      12891.344584   s
 az_fmrate_srdelay_14:    5.33366e-03   s
 az_fmrate_polynomial_14: -2328.90335  450619.49818  -7.88235e+07   0.00000e+00   0.00000e+00
 first_valid_sample_14:     514         samples
-last_valid_sample_14:    20967         samples
-first_valid_line_14:        19         lines
+last_valid_sample_14:    20943         samples
+first_valid_line_14:        21         lines
 last_valid_line_14:       1484         lines
-burst_win_14:      799495.30300   847714.90684    12892.745918    12895.506530       0   20700      79    1344
-ext_burst_win_14:  799495.30300   848320.59296    12892.622584    12895.629863       0   20960      19    1464
+burst_win_14:      799547.24325   847769.88991    12892.737749    12895.498384       0   20700      77    1344
+ext_burst_win_14:  799547.24325   848329.02008    12892.622637    12895.629941       0   20940      21    1464
 
 burst_date_15:          2023-01-17T03:34:55.340030
-burst_start_time_15:    12895.3400300  s
+burst_start_time_15:    12895.3359938  s
 sensing_date_15:        2023-01-17T03:34:56.464166
 sensing_start_time_15:  12896.4641660  s
 sensing_position_15:    4211429.6783   3873032.3076   4154793.5948   m   m   m
 sensing_velocity_15:      4379.78413     1666.83995    -5975.61118   m/s m/s m/s
 asc_node_delta_15:       2359.0225260  s
 burst_asc_node_15:        855.2522194  bursts
-burst_boffset_15:       1870987328
+burst_boffset_15:       1871071440
 doppler_date_15:        2023-01-17T03:34:55.065601
 doppler_time_15:        12895.065601   s
 doppler_srdelay_15:      5.34165e-03   s
@@ -364,21 +364,21 @@ az_fmrate_time_15:      12894.102861   s
 az_fmrate_srdelay_15:    5.33366e-03   s
 az_fmrate_polynomial_15: -2328.97708  450599.00038  -7.88116e+07   0.00000e+00   0.00000e+00
 first_valid_sample_15:     514         samples
-last_valid_sample_15:    20967         samples
-first_valid_line_15:        20         lines
+last_valid_sample_15:    20943         samples
+first_valid_line_15:        22         lines
 last_valid_line_15:       1484         lines
-burst_win_15:      799495.30300   847714.90684    12895.508585    12898.260975       0   20700      82    1340
-ext_burst_win_15:  799495.30300   848320.59296    12895.385252    12898.384309       0   20960      22    1460
+burst_win_15:      799547.24325   847769.88991    12895.500440    12898.252852       0   20700      80    1340
+ext_burst_win_15:  799547.24325   848329.02008    12895.385328    12898.376187       0   20940      24    1460
 
 burst_date_16:          2023-01-17T03:34:58.098586
-burst_start_time_16:    12898.0985860  s
+burst_start_time_16:    12898.0966287  s
 sensing_date_16:        2023-01-17T03:34:59.222443
 sensing_start_time_16:  12899.2224430  s
 sensing_position_16:    4223493.2815   3877610.9625   4138293.3781   m   m   m
 sensing_velocity_16:      4367.41078     1653.09696    -5988.52797   m/s m/s m/s
 asc_node_delta_16:       2361.7808030  s
 burst_asc_node_16:        856.2522194  bursts
-burst_boffset_16:       2004629280
+burst_boffset_16:       2004719400
 doppler_date_16:        2023-01-17T03:34:57.823878
 doppler_time_16:        12897.823878   s
 doppler_srdelay_16:      5.34165e-03   s
@@ -388,21 +388,21 @@ az_fmrate_time_16:      12896.861138   s
 az_fmrate_srdelay_16:    5.33366e-03   s
 az_fmrate_polynomial_16: -2329.03011  450576.41490  -7.87979e+07   0.00000e+00   0.00000e+00
 first_valid_sample_16:     514         samples
-last_valid_sample_16:    20967         samples
-first_valid_line_16:        19         lines
+last_valid_sample_16:    20943         samples
+first_valid_line_16:        20         lines
 last_valid_line_16:       1484         lines
-burst_win_16:      799495.30300   847714.90684    12898.263031    12901.015421       0   20700      80    1340
-ext_burst_win_16:  799495.30300   848320.59296    12898.139697    12901.146976       0   20960      20    1464
+burst_win_16:      799547.24325   847769.88991    12898.254908    12901.015543       0   20700      77    1344
+ext_burst_win_16:  799547.24325   848329.02008    12898.139796    12901.147099       0   20940      21    1464
 
 burst_date_17:          2023-01-17T03:35:00.857143
-burst_start_time_17:    12900.8571430  s
+burst_start_time_17:    12900.8552085  s
 sensing_date_17:        2023-01-17T03:35:01.980720
 sensing_start_time_17:  12901.9807200  s
 sensing_position_17:    4235522.6964   3882151.6978   4121757.6041   m   m   m
 sensing_velocity_17:      4354.99458     1639.34479    -6001.39338   m/s m/s m/s
 asc_node_delta_17:       2364.5390800  s
 burst_asc_node_17:        857.2522194  bursts
-burst_boffset_17:       2138271232
+burst_boffset_17:       2138367360
 doppler_date_17:        2023-01-17T03:35:00.582155
 doppler_time_17:        12900.582155   s
 doppler_srdelay_17:      5.34165e-03   s
@@ -412,21 +412,21 @@ az_fmrate_time_17:      12899.619415   s
 az_fmrate_srdelay_17:    5.33366e-03   s
 az_fmrate_polynomial_17: -2329.09180  450555.77948  -7.87904e+07   0.00000e+00   0.00000e+00
 first_valid_sample_17:     514         samples
-last_valid_sample_17:    20967         samples
-first_valid_line_17:        19         lines
+last_valid_sample_17:    20943         samples
+first_valid_line_17:        20         lines
 last_valid_line_17:       1484         lines
-burst_win_17:      799495.30300   847714.90684    12901.017476    12903.778088       0   20700      78    1344
-ext_burst_win_17:  799495.30300   848320.59296    12900.902365    12903.901422       0   20960      22    1460
+burst_win_17:      799547.24325   847769.88991    12901.017599    12903.778234       0   20700      79    1344
+ext_burst_win_17:  799547.24325   848329.02008    12900.902487    12903.901568       0   20940      23    1460
 
 burst_date_18:          2023-01-17T03:35:03.613644
-burst_start_time_18:    12903.6136440  s
+burst_start_time_18:    12903.6137874  s
 sensing_date_18:        2023-01-17T03:35:04.738997
 sensing_start_time_18:  12904.7389970  s
 sensing_position_18:    4247517.8050   3886654.4882   4105186.4148   m   m   m
 sensing_velocity_18:      4342.53562     1625.58357    -6014.20729   m/s m/s m/s
 asc_node_delta_18:       2367.2973570  s
 burst_asc_node_18:        858.2522194  bursts
-burst_boffset_18:       2271913184
+burst_boffset_18:       2272015320
 doppler_date_18:        2023-01-17T03:35:03.340432
 doppler_time_18:        12903.340432   s
 doppler_srdelay_18:      5.34165e-03   s
@@ -436,21 +436,21 @@ az_fmrate_time_18:      12902.377692   s
 az_fmrate_srdelay_18:    5.33366e-03   s
 az_fmrate_polynomial_18: -2329.15537  450534.75870  -7.87798e+07   0.00000e+00   0.00000e+00
 first_valid_sample_18:     514         samples
-last_valid_sample_18:    20967         samples
+last_valid_sample_18:    20943         samples
 first_valid_line_18:        20         lines
-last_valid_line_18:       1484         lines
-burst_win_18:      799495.30300   847714.90684    12903.780144    12906.532534       0   20700      81    1340
-ext_burst_win_18:  799495.30300   848320.59296    12903.656810    12906.664089       0   20960      21    1464
+last_valid_line_18:       1483         lines
+burst_win_18:      799547.24325   847769.88991    12903.780289    12906.532701       0   20700      81    1340
+ext_burst_win_18:  799547.24325   848329.02008    12903.656954    12906.656036       0   20940      21    1460
 
 burst_date_19:          2023-01-17T03:35:06.374256
-burst_start_time_19:    12906.3742560  s
+burst_start_time_19:    12906.3703112  s
 sensing_date_19:        2023-01-17T03:35:07.497274
 sensing_start_time_19:  12907.4972740  s
 sensing_position_19:    4259478.4894   3891119.3090   4088579.9522   m   m   m
 sensing_velocity_19:      4330.03401     1611.81343    -6026.96959   m/s m/s m/s
 asc_node_delta_19:       2370.0556340  s
 burst_asc_node_19:        859.2522194  bursts
-burst_boffset_19:       2405555136
+burst_boffset_19:       2405663280
 doppler_date_19:        2023-01-17T03:35:06.098708
 doppler_time_19:        12906.098708   s
 doppler_srdelay_19:      5.34165e-03   s
@@ -460,21 +460,21 @@ az_fmrate_time_19:      12905.135969   s
 az_fmrate_srdelay_19:    5.33366e-03   s
 az_fmrate_polynomial_19: -2329.23034  450515.61176  -7.87722e+07   0.00000e+00   0.00000e+00
 first_valid_sample_19:     514         samples
-last_valid_sample_19:    20967         samples
-first_valid_line_19:        20         lines
+last_valid_sample_19:    20943         samples
+first_valid_line_19:        22         lines
 last_valid_line_19:       1483         lines
-burst_win_19:      799495.30300   847714.90684    12906.534589    12909.295201       0   20700      78    1344
-ext_burst_win_19:  799495.30300   848320.59296    12906.419478    12909.418535       0   20960      22    1460
+burst_win_19:      799547.24325   847769.88991    12906.534757    12909.287170       0   20700      80    1340
+ext_burst_win_19:  799547.24325   848329.02008    12906.419645    12909.410504       0   20940      24    1460
 
 burst_date_20:          2023-01-17T03:35:09.128701
-burst_start_time_20:    12909.1287010  s
+burst_start_time_20:    12909.1288910  s
 sensing_date_20:        2023-01-17T03:35:10.255551
 sensing_start_time_20:  12910.2555510  s
 sensing_position_20:    4271404.6323   3895546.1359   4071938.3591   m   m   m
 sensing_velocity_20:      4317.48985     1598.03452    -6039.68018   m/s m/s m/s
 asc_node_delta_20:       2372.8139110  s
 burst_asc_node_20:        860.2522194  bursts
-burst_boffset_20:       2539197088
+burst_boffset_20:       2539311240
 doppler_date_20:        2023-01-17T03:35:08.856985
 doppler_time_20:        12908.856985   s
 doppler_srdelay_20:      5.34165e-03   s
@@ -484,21 +484,21 @@ az_fmrate_time_20:      12907.894246   s
 az_fmrate_srdelay_20:    5.33366e-03   s
 az_fmrate_polynomial_20: -2329.29410  450494.44065  -7.87620e+07   0.00000e+00   0.00000e+00
 first_valid_sample_20:     514         samples
-last_valid_sample_20:    20968         samples
-first_valid_line_20:        20         lines
-last_valid_line_20:       1484         lines
-burst_win_20:      799495.30300   847714.90684    12909.297257    12912.049647       0   20700      82    1340
-ext_burst_win_20:  799495.30300   848320.59296    12909.173924    12912.172980       0   20960      22    1460
+last_valid_sample_20:    20944         samples
+first_valid_line_20:        21         lines
+last_valid_line_20:       1483         lines
+burst_win_20:      799547.24325   847769.88991    12909.289226    12912.049861       0   20700      78    1344
+ext_burst_win_20:  799547.24325   848329.02008    12909.174114    12912.173195       0   20940      22    1460
 
 burst_date_21:          2023-01-17T03:35:11.891369
-burst_start_time_21:    12911.8913690  s
+burst_start_time_21:    12911.8874698  s
 sensing_date_21:        2023-01-17T03:35:13.013828
 sensing_start_time_21:  12913.0138280  s
 sensing_position_21:    4283296.1163   3899934.9448   4055261.7780   m   m   m
 sensing_velocity_21:      4304.90324     1584.24696    -6052.33894   m/s m/s m/s
 asc_node_delta_21:       2375.5721880  s
 burst_asc_node_21:        861.2522194  bursts
-burst_boffset_21:       2672839040
+burst_boffset_21:       2672959200
 doppler_date_21:        2023-01-17T03:35:11.615262
 doppler_time_21:        12911.615262   s
 doppler_srdelay_21:      5.34165e-03   s
@@ -508,21 +508,21 @@ az_fmrate_time_21:      12910.652523   s
 az_fmrate_srdelay_21:    5.33366e-03   s
 az_fmrate_polynomial_21: -2329.34970  450471.82553  -7.87493e+07   0.00000e+00   0.00000e+00
 first_valid_sample_21:     436         samples
-last_valid_sample_21:    20890         samples
-first_valid_line_21:        19         lines
-last_valid_line_21:       1483         lines
-burst_win_21:      799495.30300   847621.72436    12912.051702    12914.812314       0   20660      78    1344
-ext_burst_win_21:  799495.30300   848134.22800    12911.936591    12914.935648       0   20880      22    1460
+last_valid_sample_21:    20866         samples
+first_valid_line_21:        21         lines
+last_valid_line_21:       1484         lines
+burst_win_21:      799547.24325   847676.70155    12912.051916    12914.804328       0   20660      80    1340
+ext_burst_win_21:  799547.24325   848142.64335    12911.936804    12914.927663       0   20860      24    1460
 
 burst_date_22:          2023-01-17T03:35:14.643759
-burst_start_time_22:    12914.6437590  s
+burst_start_time_22:    12914.6439937  s
 sensing_date_22:        2023-01-17T03:35:15.772105
 sensing_start_time_22:  12915.7721050  s
 sensing_position_22:    4295152.8245   3904285.7119   4038550.3522   m   m   m
 sensing_velocity_22:      4292.27429     1570.45090    -6064.94576   m/s m/s m/s
 asc_node_delta_22:       2378.3304650  s
 burst_asc_node_22:        862.2522194  bursts
-burst_boffset_22:       2806480992
+burst_boffset_22:       2806607160
 doppler_date_22:        2023-01-17T03:35:14.373539
 doppler_time_22:        12914.373539   s
 doppler_srdelay_22:      5.34045e-03   s
@@ -532,21 +532,21 @@ az_fmrate_time_22:      12913.410800   s
 az_fmrate_srdelay_22:    5.33366e-03   s
 az_fmrate_polynomial_22: -2329.43645  450451.98622  -7.87374e+07   0.00000e+00   0.00000e+00
 first_valid_sample_22:     436         samples
-last_valid_sample_22:    20890         samples
+last_valid_sample_22:    20866         samples
 first_valid_line_22:        20         lines
-last_valid_line_22:       1482         lines
-burst_win_22:      799495.30300   847528.54188    12914.814370    12917.566760       0   20620      83    1340
-ext_burst_win_22:  799495.30300   848134.22800    12914.691037    12917.690093       0   20880      23    1460
+last_valid_line_22:       1481         lines
+burst_win_22:      799547.24325   847583.51319    12914.806384    12917.567019       0   20620      79    1344
+ext_burst_win_22:  799547.24325   848142.64335    12914.691272    12917.682131       0   20860      23    1456
 
 burst_date_23:          2023-01-17T03:35:17.406427
-burst_start_time_23:    12917.4064270  s
+burst_start_time_23:    12917.4087405  s
 sensing_date_23:        2023-01-17T03:35:18.530381
 sensing_start_time_23:  12918.5303810  s
 sensing_position_23:    4306974.6361   3908598.4126   4021804.2311   m   m   m
 sensing_velocity_23:      4279.60311     1556.64647    -6077.50053   m/s m/s m/s
 asc_node_delta_23:       2381.0887410  s
 burst_asc_node_23:        863.2522190  bursts
-burst_boffset_23:       2940122944
+burst_boffset_23:       2940255120
 doppler_date_23:        2023-01-17T03:35:17.133764
 doppler_time_23:        12917.133764   s
 doppler_srdelay_23:      5.34045e-03   s
@@ -556,21 +556,21 @@ az_fmrate_time_23:      12916.171024   s
 az_fmrate_srdelay_23:    5.33366e-03   s
 az_fmrate_polynomial_23: -2329.51223  450431.62605  -7.87274e+07   0.00000e+00   0.00000e+00
 first_valid_sample_23:     436         samples
-last_valid_sample_23:    20890         samples
-first_valid_line_23:        19         lines
-last_valid_line_23:       1483         lines
-burst_win_23:      799495.30300   847528.54188    12917.568815    12920.329428       0   20620      79    1344
-ext_burst_win_23:  799495.30300   848134.22800    12917.445482    12920.452761       0   20880      19    1464
+last_valid_sample_23:    20866         samples
+first_valid_line_23:        20         lines
+last_valid_line_23:       1481         lines
+burst_win_23:      799547.24325   847583.51319    12917.569075    12920.329710       0   20620      78    1344
+ext_burst_win_23:  799547.24325   848142.64335    12917.453963    12920.453045       0   20860      22    1460
 
 burst_date_24:          2023-01-17T03:35:20.167039
-burst_start_time_24:    12920.1670390  s
+burst_start_time_24:    12920.1714314  s
 sensing_date_24:        2023-01-17T03:35:21.288658
 sensing_start_time_24:  12921.2886580  s
 sensing_position_24:    4318761.4431   3912873.0271   4005023.5464   m   m   m
 sensing_velocity_24:      4266.88979     1542.83379    -6090.00315   m/s m/s m/s
 asc_node_delta_24:       2383.8470180  s
 burst_asc_node_24:        864.2522190  bursts
-burst_boffset_24:       3073764896
+burst_boffset_24:       3073903080
 doppler_date_24:        2023-01-17T03:35:19.892041
 doppler_time_24:        12919.892041   s
 doppler_srdelay_24:      5.34045e-03   s
@@ -580,21 +580,21 @@ az_fmrate_time_24:      12918.929301   s
 az_fmrate_srdelay_24:    5.33366e-03   s
 az_fmrate_polynomial_24: -2329.58315  450412.20597  -7.87209e+07   0.00000e+00   0.00000e+00
 first_valid_sample_24:     436         samples
-last_valid_sample_24:    20890         samples
-first_valid_line_24:        20         lines
-last_valid_line_24:       1484         lines
-burst_win_24:      799495.30300   847528.54188    12920.331483    12923.092095       0   20620      80    1344
-ext_burst_win_24:  799495.30300   848134.22800    12920.208150    12923.215429       0   20880      20    1464
+last_valid_sample_24:    20866         samples
+first_valid_line_24:        19         lines
+last_valid_line_24:       1481         lines
+burst_win_24:      799547.24325   847583.51319    12920.331766    12923.092401       0   20620      78    1344
+ext_burst_win_24:  799547.24325   848142.64335    12920.216654    12923.215735       0   20860      22    1460
 
 burst_date_25:          2023-01-17T03:35:22.923540
-burst_start_time_25:    12922.9235400  s
+burst_start_time_25:    12922.9258992  s
 sensing_date_25:        2023-01-17T03:35:24.046935
 sensing_start_time_25:  12924.0469350  s
 sensing_position_25:    4330513.1254   3917109.5311   3988208.4480   m   m   m
 sensing_velocity_25:      4254.13444     1529.01301    -6102.45351   m/s m/s m/s
 asc_node_delta_25:       2386.6052950  s
 burst_asc_node_25:        865.2522190  bursts
-burst_boffset_25:       3207406848
+burst_boffset_25:       3207551040
 doppler_date_25:        2023-01-17T03:35:22.650318
 doppler_time_25:        12922.650318   s
 doppler_srdelay_25:      5.34045e-03   s
@@ -604,9 +604,9 @@ az_fmrate_time_25:      12921.687578   s
 az_fmrate_srdelay_25:    5.33366e-03   s
 az_fmrate_polynomial_25: -2329.67350  450390.05243  -7.87022e+07   0.00000e+00   0.00000e+00
 first_valid_sample_25:     436         samples
-last_valid_sample_25:    20890         samples
+last_valid_sample_25:    20866         samples
 first_valid_line_25:        20         lines
-last_valid_line_25:       1484         lines
-burst_win_25:      799495.30300   847528.54188    12923.094151    12926.002763       0   20620      83    1416
-ext_burst_win_25:  799495.30300   848134.22800    12922.970817    12926.002763       0   20880      23    1476
+last_valid_line_25:       1482         lines
+burst_win_25:      799547.24325   847583.51319    12923.094456    12926.011315       0   20620      82    1420
+ext_burst_win_25:  799547.24325   848142.64335    12922.971122    12926.011315       0   20860      22    1480
 
